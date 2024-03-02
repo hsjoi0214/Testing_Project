@@ -20,6 +20,10 @@ header {
     background-color: lightcoral;
 }
 
+h1 {
+    font-family: 'oswald', sans-serif;
+}
+
 main {
     background-color: lightblue;
     flex: 1 0 auto
